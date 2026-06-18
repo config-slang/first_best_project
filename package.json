@@ -1,0 +1,16 @@
+{
+  "name": "youtubr",
+  "version": "1.0.0",
+  "description": "first best project",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "barun",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
